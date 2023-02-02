@@ -2,4 +2,4 @@
 A simple project that is in progress, made using html, css. In the future I will add javascript.
 use and abuse of code.
 
-<script type="text/javascript" src="https://files.fm/embed/player?hash=hc6b2kprh&w=100%&h=auto" id="filesfm_embed_js__hc6b2kprh"></script>
+ <img src="https://imageup.me/images/8c9b9864-1a5a-44e0-902c-ce0922ec7672.jpeg" alt="" srcset="" width="520px"> 
